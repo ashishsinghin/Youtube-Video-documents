@@ -68,6 +68,23 @@ Famous VCS:
 - Pushing and Pulling in Git
     - `git push -u origin master` 
     - `git fetch` 
-    - `git pull` 
+    - `git pull`
+ 
+### 5. Branching in Git
+- Introduction to Branching Concept.
+- Creating Branches
+    - `git branch <BRANCH NAME>` 
+    - `git checkout <BR_NAME>` 
+    - `git checkout -b "BR_NAME"` 
+- Pushing branch code
+    - `git push --set-upstream origin feat-a` 
+    - `git push -u origin feat-b` 
+- Branch Tags
+    - FEAT-A
+    - FEAT-B
+- Merging Branches
+    - Merge
+    - Rebase
+
 
 
